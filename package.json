@@ -1,0 +1,20 @@
+{
+  "name": "hello-middle-await-not-needed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobhz/hello-middle-await-not-needed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/hello-middle-await-not-needed/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/hello-middle-await-not-needed#readme"
+}
